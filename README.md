@@ -32,6 +32,18 @@ This plugin will generate following CSS:
 /* ... */
 ```
 
+## Usage
+
+```html
+<p class="capitalize-first">the first letter will always be uppercased!</p>
+<p class="md:capitalize-first">
+  the first letter will be uppercased on <code>md</code> screens and up.
+</p>
+<p class="hover:capitalize-first">
+  the first letter will be uppercased on hover.
+</p>
+```
+
 ## License
 
 Capitalize first letter is licensed under the MIT License.

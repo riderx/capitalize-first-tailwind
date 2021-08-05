@@ -51,3 +51,4 @@ Capitalize first letter is licensed under the MIT License.
 ## Credits
 
 Created with [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin).
+Inspired by [simonswiss](https://github.com/tailwindlabs/tailwindcss/discussions/1745#discussioncomment-145597)

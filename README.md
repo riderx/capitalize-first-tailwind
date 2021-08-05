@@ -1,11 +1,11 @@
-# Capitalize first letter
+# Tailwind Capitalize first letter
 
-> utility to capitalize only first letter of string
+> tailwind utility to capitalize only first letter of string
 
 Install the plugin from npm:
 
 ```
-$ npm install capitalize-first-letter
+$ npm install tailwind-capitalize-first-letter
 ```
 
 Then add the plugin to your `tailwind.config.js` file:
@@ -16,7 +16,7 @@ module.exports = {
   // ...
   plugins: [
     // ...
-    require('capitalize-first-letter'),
+    require('tailwind-capitalize-first-letter'),
     // ...
   ],
 };

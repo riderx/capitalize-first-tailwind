@@ -1,6 +1,6 @@
 {
   "name": "tailwind-capitalize-first-letter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tailwind utility to capitalize only first letter of string",
   "main": "index.js",
   "scripts": {

@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riderx/capitalize-first-letter.git"
+    "url": "git+https://github.com/riderx/capitalize-first-tailwind.git"
   },
   "bugs": {
-    "url": "https://github.com/riderx/capitalize-first-letter/issues"
+    "url": "https://github.com/riderx/capitalize-first-tailwind/issues"
   },
-  "homepage": "https://github.com/riderx/capitalize-first-letter#readme",
+  "homepage": "https://github.com/riderx/capitalize-first-tailwind#readme",
   "keywords": [
     "create-tailwind-plugin",
     "tailwind-css-plugin",
